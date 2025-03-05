@@ -27,3 +27,35 @@ Me apasiona crear soluciones tecnológicas que no solo funcionen, sino que tambi
 
 📫 **¿Listo para llevar tu proyecto al siguiente nivel?**  
 No dudes en contactarme. Estoy abierto a colaborar en proyectos desafiantes y trabajar con clientes de todo tipo. ¡Construyamos algo increíble juntos!  
+
+------------------------------------------------------------------------------------------------------------------
+
+### Hi there! 👋 I'm Edgar Perez, a full-stack developer with over 8 years of experience building scalable and efficient digital solutions.
+
+💻 **Specialized in:**  
+- Web and mobile application development.  
+- Microservices architecture and serverless applications on AWS (Lambda, API Gateway, DynamoDB, etc.).  
+- Implementing DevOps practices to optimize deployments and cloud environments.  
+- Cross-platform mobile app development with **React Native** (iOS and Android).  
+
+🚀 **Technologies I master:**  
+- **JavaScript** | **TypeScript** | **Node.js** | **React**  
+- **AWS Lambda** and serverless services.  
+- Microservices development and robust APIs.  
+- DevOps tools on AWS (CI/CD, CloudFormation, etc.).  
+
+📱 **I've worked with clients of all sizes:**  
+- From startups to established companies, helping them build web and mobile applications that solve real-world problems.  
+- I've led backend module development, microservices implementation, and scalable cloud architectures.  
+
+🌟 **My approach:**  
+I’m passionate about creating technological solutions that not only work but are also scalable, efficient, and easy to maintain. I believe in clean code, well-thought-out architecture, and implementing best practices to ensure long-term success.  
+
+🔧 **What can I do for you?**  
+- Develop custom web and mobile applications.  
+- Design and implement serverless architectures on AWS.  
+- Optimize your processes with DevOps practices.  
+- Build robust microservices and efficient APIs.  
+
+📫 **Ready to take your project to the next level?**  
+Feel free to reach out. I’m open to collaborating on challenging projects and working with clients of all types. Let’s build something amazing together!  
