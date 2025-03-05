@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy [Tu Nombre], un desarrollador full-stack con más de 8 años de experiencia creando soluciones digitales escalables y eficientes.
+### ¡Hola! 👋 Soy Edgar Perez, un desarrollador full-stack con más de 8 años de experiencia creando soluciones digitales escalables y eficientes.
 
 💻 **Especializado en:**  
 - Desarrollo de aplicaciones web y móviles.  
